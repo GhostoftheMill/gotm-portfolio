@@ -1,0 +1,11 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+.card-header {
+    position: relative;
+    margin-bottom: -20px;
+    margin-left: -30px;
+  }
