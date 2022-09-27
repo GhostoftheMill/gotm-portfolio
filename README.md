@@ -1,4 +1,4 @@
-# gotm-portfolio
+# Kevin White's Portfolio
 <img src=./assets/images/gotm-portfolio-deploy.jpeg>
 
 <h2><b>Introduction</b></h2>
