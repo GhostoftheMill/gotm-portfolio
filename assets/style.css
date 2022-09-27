@@ -50,7 +50,10 @@ ul {
     display: flex;
     flex-wrap: wrap;
 }
-    
+
+ul {
+    display: inline;
+  }
 
 ul li {float: center;
         display: inline;}
@@ -69,12 +72,12 @@ ul li a:hover {background-color: var(--mypurple);}
     ul li, 
     ul li {float: none;};
   }
+
+h2 {
+  text-align: top;
+  float: left;
 }
-/*
-ul {
-    display: inline;
-  }
-*/
+
 .card {
     display: inline-flex;
     background-color: var(--mypurple);
@@ -101,26 +104,14 @@ ul {
     width: 100%;
     min-width: 200px;
   }
-/*
-  * {
-    box-sizing: border-box;
-  }
 
-  aside {
-    flex: 1;
-    background-color: #b9c6ae;
-    padding: 80px;
-    text-align: center;
-  }
-*/  
-  
-  footer {
+footer {
     padding: 20px;
     text-align: center;
   }
   
 .works {
-    flex: 4;
+    flex: 1;
     background-color: #fff;
     padding: 20px;
     display: flex;
