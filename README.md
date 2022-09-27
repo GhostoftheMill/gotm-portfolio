@@ -1,5 +1,5 @@
 # Kevin White's Portfolio
-<img src=./assets/images/gotm-portfolio-deploy.jpeg>
+<img src=./assets/images/gotm-portfolio-deploy.jpg>
 
 <h2><b>Introduction</b></h2>
 
